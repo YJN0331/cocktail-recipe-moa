@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T07:52:07.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_DzN_Q9shfRBculG0XLO" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T07:55:31.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tI7NzNtZI5IMbC0XuVmv" version="19.0.3" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="357" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1322" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="WG7-GDT2cJCjvKGhf-v_-18" value="섞고 싶은 재료 선택&lt;br&gt;(Radio)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="40" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WG7-GDT2cJCjvKGhf-v_-21" value="Lane 6" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="77e6c97f196da883-1">
+        <mxCell id="WG7-GDT2cJCjvKGhf-v_-21" value="Lane 7" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="1200" y="20" width="480" height="300" as="geometry" />
         </mxCell>
         <mxCell id="WG7-GDT2cJCjvKGhf-v_-31" value="주스" style="swimlane;fontSize=14;strokeColor=#000000;" vertex="1" parent="WG7-GDT2cJCjvKGhf-v_-21">
@@ -79,20 +79,23 @@
         <mxCell id="WG7-GDT2cJCjvKGhf-v_-39" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; text-align: start; font-size: 8px;&quot;&gt;얼음&lt;br&gt;달걀&lt;br&gt;물&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; text-align: start; font-size: 8px;&quot; data-mce-style=&quot;color: #000000;&quot;&gt;우스터소스&lt;br&gt;타바스코 소스&lt;br&gt;소금&lt;br&gt;후추&lt;br&gt;꿀&lt;br&gt;우유&lt;br&gt;크림&lt;br&gt;등등&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="WG7-GDT2cJCjvKGhf-v_-38">
           <mxGeometry x="10" y="41" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WG7-GDT2cJCjvKGhf-v_-22" value="Lane 6" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="77e6c97f196da883-1">
+        <mxCell id="WG7-GDT2cJCjvKGhf-v_-22" value="Lane 8" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="1680" y="20" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WG7-GDT2cJCjvKGhf-v_-40" value="취향 껏 선택 할 수 있도록&lt;br&gt;독한 맛, 상큼한 맛, 커피 맛, 매운 맛 등등&lt;br&gt;맛으로 분류하여&lt;br&gt;선택한 재료로 만들 수 있는 칵테일을 보여준다." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="WG7-GDT2cJCjvKGhf-v_-22">
+          <mxGeometry x="40" y="62" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WG7-GDT2cJCjvKGhf-v_-28" value="Lane 6" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="1880" y="20" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WG7-GDT2cJCjvKGhf-v_-41" value="취향에 맞는 칵테일을&lt;br&gt;최종 선택하면&lt;br&gt;레시피, 특징 등을&amp;nbsp;&lt;br&gt;볼 수 있다." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="WG7-GDT2cJCjvKGhf-v_-28">
+          <mxGeometry x="40" y="60" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WG7-GDT2cJCjvKGhf-v_-29" value="Lane 6" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="2080" y="20" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="WG7-GDT2cJCjvKGhf-v_-30" value="Lane 6" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="2280" y="20" width="200" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="WG7-GDT2cJCjvKGhf-v_-25" value="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;오렌지 주스&lt;br&gt;크랜베리 주스&lt;br&gt;라임 주스&lt;br&gt;레몬&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;주스&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;자몽&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;주스&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;토마토&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;주스&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;파인애플&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;주스&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;&lt;br&gt;&amp;nbsp;등등&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="570" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
